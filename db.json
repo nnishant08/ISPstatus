@@ -2,15 +2,16 @@
    "status":[
   {
     "nodeID": "1",
-    "nodeStatus": "down",    
-   },
+    "nodeStatus": "down"
+  },
+   
    {
     "nodeID": "2",
-    "nodeStatus": "up",
+    "nodeStatus": "up"
    },
    {
     "nodeID": "3",
-    "nodeStatus": "up",
+    "nodeStatus": "up"
    }
 ]
 }
