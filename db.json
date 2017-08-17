@@ -1,4 +1,4 @@
-[
+{ status[
   {
     "nodeID": "1",
     "nodeStatus": "down",    
@@ -12,3 +12,4 @@
     "nodeStatus": "up",
    }
 ]
+}
